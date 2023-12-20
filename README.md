@@ -14,7 +14,7 @@ Aby zainstalować MaxLotto, musisz mieć zainstalowany program Python 3.x i nast
 Możesz zainstalować te biblioteki za pomocą pip.
 Uruchom następujące polecenie:
 
-'''pip install numpy tensorflow keras'''
+pip install numpy tensorflow keras
 
 ## Dane
 
@@ -25,6 +25,7 @@ Po utworzeniu pliku z danymi, możesz uruchomić skrypt "neuro.py" w celu wytren
 Powodzenia! ;-)
 
 
+## Licencja
 MIT License
 
 Copyright (c) 2023 CorvusCodex
