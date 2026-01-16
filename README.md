@@ -1,6 +1,6 @@
 
 
-## NeuroLotto
+## Lotto AI
 
 MaxLotto to prosty skrypt przewidywania dowolnej loterii Lotto za pomocą sieci neuronowej. Tak wiemy, loterii nie da się przewidzieć, ale czasami warto spróbować ;-) 
 
